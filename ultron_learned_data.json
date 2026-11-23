@@ -1,0 +1,14 @@
+{
+    "questions": [
+        {
+            "question": "What is Python?",
+            "answer": "Python is a programming language used to build software and applications.",
+            "created_at": "2026-11-22T16:05:41"
+        },
+        {
+            "question": "What is AI?",
+            "answer": "AI stands for Artificial Intelligence. It enables machines to perform tasks that normally require human intelligence.",
+            "created_at": "2026-11-23T14:58:45"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "greeting": {
+        "patterns": [
+            "hello",
+            "hi",
+            "hey",
+            "good morning",
+            "good evening",
+            "howdy"
+        ],
+        "responses": [
+            "Hello! How can I help you?",
+            "Hey! ULTRON is ready.",
+            "Greetings! What are we doing today?"
+        ]
+    },
+    "goodbye": {
+        "patterns": [
+            "bye",
+            "goodbye",
+            "see you",
+            "good night"
+        ],
+        "responses": [
+            "Goodbye! See you again.",
+            "ULTRON signing off."
+        ]
+    },
+    "thanks": {
+        "patterns": [
+            "thanks",
+            "thank you",
+            "thank you so much"
+        ],
+        "responses": [
+            "You're welcome!",
+            "Happy to help."
+        ]
+    },
+    "identity": {
+        "patterns": [
+            "who are you",
+            "what are you",
+            "introduce yourself"
+        ],
+        "responses": [
+            "I am ULTRON, an AI learning project.",
+            "I am ULTRON. I am continuously learning."
+        ]
+    },
+    "creator": {
+        "patterns": [
+            "who created you",
+            "who is your creator",
+            "who made you"
+        ],
+        "responses": [
+            "I am being developed by my creator.",
+            "My creator is building me step by step."
+        ]
+    },
+    "how_are_you": {
+        "patterns": [
+            "how are you",
+            "are you fine",
+            "how are you doing"
+        ],
+        "responses": [
+            "I am functioning properly!",
+            "All systems are running."
+        ]
+    },
+    "help": {
+        "patterns": [
+            "help",
+            "what can you do",
+            "your features"
+        ],
+        "responses": [
+            "I can recognize intents, remember learned examples and respond to messages.",
+            "I am learning language processing and conversation."
+        ]
+    },
+    "friendship": {
+        "patterns": [
+            "You are my intelligent friend"
+        ],
+        "responses": [
+            "I am glad to be your learning companion"
+        ]
+    },
+    "intelligent_response": {
+        "patterns": [
+            "tell me something intelligent"
+        ],
+        "responses": [
+            "Knowledge is the beginning of intelligence."
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "positive": 2,
+    "negative": 1,
+    "records": [
+        {
+            "question": "What is Python?",
+            "response": "Python is a popular language used in software development.",
+            "rating": "good"
+        },
+        {
+            "question": "What is Python?",
+            "response": "Python is a popular language used in software development.",
+            "rating": "good"
+        },
+        {
+            "question": "What is quantum computing?",
+            "response": "I don't know that yet. You can teach me using /teach.",
+            "rating": "bad"
+        }
+    ]
+}

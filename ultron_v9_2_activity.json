@@ -1,0 +1,17 @@
+[
+    {
+        "action": "learn",
+        "sentence": "I am building artificial intelligence",
+        "time": "2026-11-23T15:21:13"
+    },
+    {
+        "action": "analyze",
+        "sentence": "I am learning artificial intelligence",
+        "time": "2026-11-23T15:21:23"
+    },
+    {
+        "action": "analyze",
+        "sentence": "I am studying robotics",
+        "time": "2026-11-23T15:21:33"
+    }
+]

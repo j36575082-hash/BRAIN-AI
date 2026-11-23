@@ -1,0 +1,9 @@
+{
+    "examples": [
+        {
+            "sentence": "how is your system",
+            "intent": "greeting",
+            "created_at": "2026-11-22T16:06:36"
+        }
+    ]
+}

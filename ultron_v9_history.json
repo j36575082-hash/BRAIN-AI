@@ -1,0 +1,52 @@
+[
+    {
+        "role": "user",
+        "message": "hello",
+        "time": "2026-11-23T15:08:29"
+    },
+    {
+        "role": "ultron",
+        "message": "Hi! How can I help you? [Confidence: 1.00]",
+        "time": "2026-11-23T15:08:29"
+    },
+    {
+        "role": "user",
+        "message": "who are you",
+        "time": "2026-11-23T15:08:37"
+    },
+    {
+        "role": "ultron",
+        "message": "I am ULTRON, an experimental learning system. [Confidence: 1.00]",
+        "time": "2026-11-23T15:08:37"
+    },
+    {
+        "role": "user",
+        "message": "good night",
+        "time": "2026-11-23T15:10:09"
+    },
+    {
+        "role": "ultron",
+        "message": "System online. What would you like to discuss? [Confidence: 1.00]",
+        "time": "2026-11-23T15:10:09"
+    },
+    {
+        "role": "user",
+        "message": "[OK] Saved neural model loaded",
+        "time": "2026-11-23T15:12:48"
+    },
+    {
+        "role": "ultron",
+        "message": "I don't understand this question yet. You can teach me using /teach.",
+        "time": "2026-11-23T15:12:48"
+    },
+    {
+        "role": "user",
+        "message": "good night",
+        "time": "2026-11-23T15:12:57"
+    },
+    {
+        "role": "ultron",
+        "message": "System online. What would you like to discuss? [Confidence: 1.00]",
+        "time": "2026-11-23T15:12:57"
+    }
+]

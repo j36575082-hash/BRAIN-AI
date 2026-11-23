@@ -1,0 +1,53 @@
+{
+    "greeting": [
+        "hello",
+        "hi",
+        "hey",
+        "good morning",
+        "howdy",
+        "hello ultron",
+        "Greetings my intelligent friend"
+    ],
+    "goodbye": [
+        "bye",
+        "goodbye",
+        "see you later",
+        "talk to you later"
+    ],
+    "thanks": [
+        "thank you",
+        "thanks",
+        "thanks a lot",
+        "I appreciate it"
+    ],
+    "how_are_you": [
+        "how are you",
+        "how are you doing",
+        "are you okay",
+        "how is everything"
+    ],
+    "identity": [
+        "what is your name",
+        "who are you",
+        "tell me your name",
+        "introduce yourself"
+    ],
+    "creator": [
+        "who created you",
+        "who is your creator",
+        "who made you",
+        "who developed you"
+    ],
+    "help": [
+        "help me",
+        "what can you do",
+        "show your features",
+        "how can you help me"
+    ],
+    "time": [
+        "what time is it",
+        "tell me the time",
+        "current time",
+        "show the time"
+    ]
+}

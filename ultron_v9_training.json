@@ -1,0 +1,66 @@
+[
+    {
+        "text": "hello",
+        "intent": "greeting"
+    },
+    {
+        "text": "hi",
+        "intent": "greeting"
+    },
+    {
+        "text": "hey",
+        "intent": "greeting"
+    },
+    {
+        "text": "good morning",
+        "intent": "greeting"
+    },
+    {
+        "text": "how are you",
+        "intent": "greeting"
+    },
+    {
+        "text": "how is everything",
+        "intent": "greeting"
+    },
+    {
+        "text": "thank you",
+        "intent": "thanks"
+    },
+    {
+        "text": "thanks",
+        "intent": "thanks"
+    },
+    {
+        "text": "I appreciate it",
+        "intent": "thanks"
+    },
+    {
+        "text": "who are you",
+        "intent": "identity"
+    },
+    {
+        "text": "what are you",
+        "intent": "identity"
+    },
+    {
+        "text": "what is your name",
+        "intent": "identity"
+    },
+    {
+        "text": "bye",
+        "intent": "goodbye"
+    },
+    {
+        "text": "goodbye",
+        "intent": "goodbye"
+    },
+    {
+        "text": "see you later",
+        "intent": "goodbye"
+    },
+    {
+        "text": "good night",
+        "intent": "greeting"
+    }
+]
